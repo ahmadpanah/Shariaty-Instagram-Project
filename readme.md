@@ -1,8 +1,10 @@
-<p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
+<p align="center"><img src="https://i.imgur.com/2EhzENog.png" width="600"></p>
 
 ## About Project
 
 InstaGram Clone Functionality Frontend - Backend - DB with Laravel & Bootstrap for Web Design Course in Dr. Shariati Vocational and Technical Girls College
+
+<p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 ## About Laravel
 
